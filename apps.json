@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "name": "My Store",
+    "packageName": "com.mystore.app",
+    "versionCode": 1,
+    "versionName": "1.0.0",
+    "apkUrl": "https://github.com/GaberPet/my-apps/releases/download/my-store-1.0.0/MyStore-1.0.0.apk",
+    "description": "This store"
+  }
+]
